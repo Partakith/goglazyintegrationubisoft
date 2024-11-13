@@ -6,3 +6,6 @@ Attempt the Ubisoft Connect GOG Integration, a.k.a. You've done everything in Go
 Open this Application and press the Apply button, it should tell you success, done.
 In GoG press the connect button again and accept terms, it should now work!
 
+
+Virus Scan: https://www.virustotal.com/gui/file/5c685649c515b0a24b46483644c854be6b74f786b57e6d065f80141972fbb66c?nocache=1
+
